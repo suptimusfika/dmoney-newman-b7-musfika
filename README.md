@@ -1,4 +1,4 @@
-# dmoney-newman-b7-musfika
+# Dmoney-Api-Automation-Newman-b7-Musfika
 
 ## Project Summary:
 This project has automate user API from postman using newman
