@@ -17,11 +17,6 @@ This project has automate user API from postman using newman
 
 A report will be generate in your project source root
 
-## Testcase:
-<link>
-
-## Bug report
-<link>
 
 ## API Documentation:
 https://documenter.getpostman.com/view/27409335/2s93m4Xhtk
